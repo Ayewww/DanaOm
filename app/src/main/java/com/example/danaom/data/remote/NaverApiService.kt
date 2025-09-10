@@ -13,8 +13,8 @@ interface NaverApiService {
         const val BASE_URL = "https://openapi.naver.com/" // 네이버 API 기본 URL
         // 실제 Client ID와 Secret은 안전한 곳에 보관하고, 직접 코드에 하드코딩하지 않는 것이 좋습니다.
         // (예: buildConfigField, local.properties 등)
-        const val CLIENT_ID = ""       // 여기에 발급받은 Client ID 입력
-        const val CLIENT_SECRET = "" // 여기에 발급받은 Client Secret 입력
+        const val CLIENT_ID = "GoBstbxdTnYwMLtvIZ7R"       // 여기에 발급받은 Client ID 입력
+        const val CLIENT_SECRET = "PXeaVUvp59" // 여기에 발급받은 Client Secret 입력
     }
 
     @GET("v1/search/shop.json")

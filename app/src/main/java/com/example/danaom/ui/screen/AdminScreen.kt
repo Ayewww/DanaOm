@@ -64,7 +64,7 @@ fun AdminScreen(
                 },
                 actions = {
                     IconButton(onClick = {
-                        navController.navigate("userInfo/null")
+                        navController.navigate("register")
                     }) {
                         Icon(Icons.Filled.Add, contentDescription = "사용자 추가")
                     }
