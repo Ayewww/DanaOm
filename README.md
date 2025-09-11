@@ -52,8 +52,9 @@
  
 
 ## 실행화면
+### 홈화면
+<img src="images/홈.png" width="200" /><img src="images/쇼핑.png" width="200" />
 ### 일반 유저
-#### 1. 회원가입 
-<img src="images/회원가입.png" width="200" />
+<img src="images/회원가입.png" width="200" /><img src="images/로그인.png" width="200" /><img src="images/마이페이지.png" width="200" /><img src="images/회원 정보 수정.png" width="200" />
  
 
