@@ -53,6 +53,7 @@
 
 ## 실행화면
 ### 일반 유저
-#### 1. 회원가입 <img src="images/회원가입.png" width="200" />
+#### 1. 회원가입 
+<img src="images/회원가입.png" width="200" />
  
 
