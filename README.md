@@ -49,4 +49,10 @@
     *   [Room Persistence Library](https://developer.android.com/training/data-storage/room)
 *   **Language**:
     *   [Kotlin](https://kotlinlang.org/) (100%)
+ 
+
+## 실행화면
+###일반 유저
+1. 회원가입 <img src="images/회원가입.png" width="200" />
+2. 
 
