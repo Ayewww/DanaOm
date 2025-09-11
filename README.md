@@ -57,9 +57,13 @@
 
 ### 일반 유저
 <img src="images/회원가입.png" width="200" /><img src="images/로그인.png" width="200" /><img src="images/일반 마이페이지.png" width="200" /><img src="images/회원 정보 수정.png" width="200" />
+##### 우측 상단에 마이페이지 버튼과 로그인 버튼
 
 ### 찜 기능
 #### 홈 화면에서 상품 검색 후 찜 등록
-<img src="images/쇼핑.png" width="200" /><img src="images/찜 목록.png" width="200" />
+<img src="images/쇼핑.png" width="200" /><img src="images/일반 마이페이지.png" width="200" /><img src="images/찜 목록.png" width="200" />
+
+### 관리자
+<img src="images/관리자페이지.png" width="200" /><img src="images/회원 관리.png" width="200" />
  
 
