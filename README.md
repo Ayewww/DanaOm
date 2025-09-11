@@ -4,7 +4,8 @@
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.6.x-brightgreen.svg?logo=jetpackcompose)](https://developer.android.com/jetpack/compose)
 [![MVVM](https://img.shields.io/badge/Architecture-MVVM-orange.svg)]()
 
-**다나옴(DanaOm)**은 Jetpack Compose와 최신 Android 개발 기술을 활용하여 구축된 **상품 검색** 및 사용자 맞춤 기능을 제공하는 Android 애플리케이션입니다. 외부 API(예: Naver Shopping API)를 통해 원하는 상품을 검색하고, 사용자별 찜 목록 관리, 회원 정보 수정 등 다양한 편의 기능을 제공합니다.
+**다나옴(DanaOm)**은 Jetpack Compose와 최신 Android 개발 기술을 활용하여 구축된 **상품 검색** 및 사용자 맞춤 기능을 제공하는 Android 애플리케이션입니다. 
+외부 API(예: Naver Shopping API)를 통해 원하는 상품을 검색하고, 사용자별 찜 목록 관리, 회원 정보 수정 등 다양한 편의 기능을 제공합니다.
 
 ## ✨ 주요 기능
 
@@ -26,10 +27,7 @@
 *   **📄 마이페이지**:
     *   로그인한 사용자의 정보 확인 및 수정 (이메일, 주소, 전화번호 등)
     *   찜 목록 바로가기
-*   **🎨 현대적인 UI/UX**:
-    *   100% Kotlin 및 Jetpack Compose 기반 UI
-    *   Material Design 3 (M3) 컴포넌트 활용 (TopAppBar, Card, Button 등)
-    *   직관적인 내비게이션 (Navigation Compose)
+    *   
 
 ## 🛠️ 기술 스택 및 주요 라이브러리
 
@@ -52,12 +50,3 @@
 *   **Language**:
     *   [Kotlin](https://kotlinlang.org/) (100%)
 
-## 🚀 시작하기
-
-### 사전 준비물
-*   Android Studio (최신 버전 권장 - 예: Iguana | 2023.2.1 이상)
-*   외부 상품 API 키 (예: Naver Shopping API - Client ID, Client Secret)
-
-### 설정 방법
-1.  **프로젝트 클론**:
-    
